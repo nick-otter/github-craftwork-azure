@@ -1,5 +1,6 @@
 # GitHub Craftwork on Azure
 
+Automated release test. 
 
 This workshop will teach you how to create a GitHub App that automatically moderates new issues by applying one of the labels "bug", "enhancement" or "question". The NodeJS app will be using [Azure DevOps Pipelines](https://dev.azure.com) for CI/CD and deployed to [Azure Function Apps](https://azure.microsoft.com/en-us/services/functions). It will make use of [Microsoft LUIS](https://www.luis.ai/home) for the AI moderation.
 
